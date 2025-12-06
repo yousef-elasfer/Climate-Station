@@ -17,6 +17,6 @@ A simple and affordable Arduino-based Climate Monitoring Station that measures t
 - Breadboard
 
 # 🔹Libraries
-- DHT11 Sensor Library - https://github.com/adafruit/DHT-sensor-library
-- Adafruit_SSD1306 - https://github.com/adafruit/Adafruit_SSD1306
-- Adafruit_GFX - https://github.com/adafruit/Adafruit-GFX-Library
+- [DHT11 Sensor Library](https://github.com/adafruit/DHT-sensor-library)
+- [Adafruit_SSD1306](https://github.com/adafruit/Adafruit_SSD1306)
+- [Adafruit_GFX](https://github.com/adafruit/Adafruit-GFX-Library)
